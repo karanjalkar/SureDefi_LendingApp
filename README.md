@@ -1,7 +1,8 @@
 # SureDefi_LendingApp
-Wrapping Ethereum based crypto and transfer it on Avalanche platform lending app and deposit to earn interest in AVAX
+Wrapping Ethereum based crypto and transfer it on Avalanche platform lending app and deposit to earn interest in AVAX.
 SureDefi_ProductDemoOnTestnet_V1.0
 Product demo video is added here for information. It is on testnet.
+Youtube Link-https://youtu.be/goyzDw0FNEk
 
 1)SureDefi-Avalanche 
 This is a Android studio workspace for Sure-Defi Avalanche Mobile application
